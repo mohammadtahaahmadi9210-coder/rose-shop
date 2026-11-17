@@ -4,5 +4,5 @@ pages_build_output_dir = "."
 
 [[d1_databases]]
 binding = "DB"
-database_name = "rose-shop-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_name = "ose-shop-db-26"
+database_id = "69b28fd2-b4c9-4b9f-98ef-225d4a4ecae3"
